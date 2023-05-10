@@ -1,11 +1,10 @@
 - Sou Cleber Gonçalves, estudante de :
 -  1 - Python; 
--  2 - HTML5;
--  3 - CSS3;
--  4 - JavaScript;
--  5 - Git e GitHub
+-  2 - JavaScript;
+-  3 - MySql;
 - 
-- Com o professor Gustavo Guanabara, moro em São paulo- Penha de França.      
+- 
+- Com o professor Gustavo Guanabara, moro em São paulo- SP      
 - Facinado pelo universo da programação.
 - @clee_p4 é o meu instagram
 - (75) 98121-5345 é o meu contato.
