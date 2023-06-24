@@ -4,8 +4,10 @@ Tecnologias:
 
 
 
-![js](https://github.com/Cleber-git/Cleber-git/assets/109536047/ccfbf6d7-60b4-4092-9d5b-a40dcb7752dc)      ![letra-c](https://github.com/Cleber-git/Cleber-git/assets/109536047/6bfb4569-0cd0-49af-9923-9756a64d77da)   ![mysql](https://github.com/Cleber-git/Cleber-git/assets/109536047/bfe270e8-64f4-4973-a9c8-c4654e42fc2f)
-![python](https://github.com/Cleber-git/Cleber-git/assets/109536047/b9d5fb41-ed47-4300-9d47-d8a348bbc486)
+![mysql(1)](https://github.com/Cleber-git/Cleber-git/assets/109536047/79db7297-7f6b-43e2-a588-caccb59eb138)
+![js](https://github.com/Cleber-git/Cleber-git/assets/109536047/776f3ebf-92fa-4707-870b-4046146409fe)
+![letra-c](https://github.com/Cleber-git/Cleber-git/assets/109536047/e4d58178-1104-448a-955a-0b02d74ccc83)
+![python](https://github.com/Cleber-git/Cleber-git/assets/109536047/f8b5e4da-0d4a-4eb7-b7d1-3b7b7f8f049a)
 
 
 
