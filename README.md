@@ -9,6 +9,9 @@
 ![letra-c](https://github.com/Cleber-git/Cleber-git/assets/109536047/e4d58178-1104-448a-955a-0b02d74ccc83)
 ![c-](https://github.com/Cleber-git/Cleber-git/assets/109536047/aa9d9250-55a1-450a-a02c-44f3bab6d59d)
 ![python](https://github.com/Cleber-git/Cleber-git/assets/109536047/f8b5e4da-0d4a-4eb7-b7d1-3b7b7f8f049a)
+![5968267](https://github.com/Cleber-git/Cleber-git/assets/109536047/734d1070-8168-4230-8033-c0bdd675497d)
+![Sem título](https://github.com/Cleber-git/Cleber-git/assets/109536047/2b862b04-1c43-4d06-9572-96822185d395)
+
 
 
 
