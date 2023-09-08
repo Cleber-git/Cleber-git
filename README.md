@@ -1,4 +1,4 @@
-## Cleber Gonçalves, Programador C/C++.
+## Cleber Gonçalves, Developer C/C++.
 
 ### Tecnologias: 
 
