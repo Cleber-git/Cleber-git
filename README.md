@@ -1,6 +1,6 @@
 ## Cleber Gonçalves, Developer C/C++.
 
-### Tecnologias: 
+### skills: 
 
 
 
