@@ -1,5 +1,11 @@
 ## Cleber Gonçalves, Developer C/C++.
 
+Hi! I'm Cleber, have twenty one years and seek new adventures in the programing world.
+currently i am developer of the software using the programing langs C and C++, the marking lang CSS and using databases as MySql and Sqlite.
+i have also, projects in the python and increassing my agroup of tools and the tecnology
+
+
+
 ### skills: 
 
 
@@ -14,9 +20,7 @@
 
 
 
-Hi! I'm Cleber, have twenty one years and seek new adventures in the programing world.
-currently i am developer of the software using the programing langs C and C++, the marking lang CSS and using databases as MySql and Sqlite.
-i have also, projects in the python and increassing my agroup of tools and the tecnology
+
 
 
 
