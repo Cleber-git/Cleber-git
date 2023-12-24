@@ -3,10 +3,12 @@
 Hi! I'm Cleber, have twenty one years and seek new adventures in the programing world.
 currently i am developer of the software using the programing langs C and C++, the marking lang CSS and using databases as MySql and Sqlite.
 i have also, projects in the python and increassing my agroup of tools of tecnology.
+I'm ever searching by new feaatures to aggregate knowledge and find the best version of myself.
 
+#
 
+### Skills: 
 
-### skills: 
 
 
 
@@ -17,6 +19,7 @@ i have also, projects in the python and increassing my agroup of tools of tecnol
 ![5968267](https://github.com/Cleber-git/Cleber-git/assets/109536047/734d1070-8168-4230-8033-c0bdd675497d)
 ![Sem título](https://github.com/Cleber-git/Cleber-git/assets/109536047/2b862b04-1c43-4d06-9572-96822185d395)
 ![50_22](https://github.com/Cleber-git/Cleber-git/assets/109536047/87eb2252-842d-43af-a5cc-c0001404065c)
+#
 
 
 
